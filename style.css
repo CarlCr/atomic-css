@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  height: 100vh;
+  width: 100%;
+}
+.Bg\(\#ffcc00\){
+  background-color:#ffcc00;
+}
+
+.Wdt\(200px\){
+  width: 200px;
+}
+
+
+.Hgt\(200px\){
+  height: 200px;
+}
+
+.Container\(\#000000\){
+  background-color: #ffffff;
+}
